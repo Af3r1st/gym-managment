@@ -30,7 +30,7 @@ _"Pocket Gym"_ je full-stack webová aplikace postavená na technologii MERN (Mo
 
 ---
 
-## Začínáme
+## Nastartovaní aplikace
 
 Pro spuštění aplikace Gym Manager postupujte podle následujících kroků:
 
